@@ -1,0 +1,19 @@
+Train - SVM Metrics:
+Accuracy: 68.89%, Precision: 73.81%, Recall: 40.79%, F1 Score: 52.54%
+Test - SVM Metrics:
+Accuracy: 61.54%, Precision: 66.67%, Recall: 28.57%, F1 Score: 40.00%
+
+Train - SVM w/ One Hot Encoding & Scaling Metrics:
+Accuracy: 90.56%, Precision: 91.55%, Recall: 85.53%, F1 Score: 88.44%
+Test - SVM w/ One Hot Encoding & Scaling Metrics:
+Accuracy: 78.21%, Precision: 84.62%, Recall: 62.86%, F1 Score: 72.13%
+
+Train - Decision Tree Metrics:
+Accuracy: 100.00%, Precision: 100.00%, Recall: 100.00%, F1 Score: 100.00%
+Test - Decision Tree Metrics:
+Accuracy: 75.64%, Precision: 80.77%, Recall: 60.00%, F1 Score: 68.85%
+
+Train - Random Forest Metrics:
+Accuracy: 99.44%, Precision: 100.00%, Recall: 98.68%, F1 Score: 99.34%
+Test - Random Forest Metrics:
+Accuracy: 82.05%, Precision: 88.89%, Recall: 68.57%, F1 Score: 77.42%
